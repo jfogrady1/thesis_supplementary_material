@@ -1,8 +1,7 @@
-# Thesis Supplementary Material.  
-
-***Integrative and comparative genomics of tuberculosis disease in humans and livestock***
+# ***Integrative and comparative genomics of tuberculosis disease in humans and livestock***
 ---
-
+## Thesis Supplementary Material  
+---
 ## Directory description
 There are three directories corresponding to the three experimental chapters of the thesis
 - Chapter 2: Integrative genomics sheds light on the immunogenetics of tuberculosis in cattle.
